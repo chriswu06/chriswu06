@@ -12,7 +12,7 @@
 =:    > ML Student Researcher @ UMD MACHAMP Lab               |
 =:    > Software Engineering Intern (ML) @ BASF-ECMS          |
 =: Certifications:                                            |
-=:    > AWS Certified Solutions Architect Associate SAA-CO3   |
+=:    > AWS Certified Solutions Architect Associate SAA-C03   |
 =:    > AWS Certified Developer Associate DVA-C02             |
 =: Interests:                                                 |
 =:    > Building Applied ML systems                           |
