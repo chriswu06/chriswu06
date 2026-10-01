@@ -1,29 +1,29 @@
 ```
-/-------------------------------------------------------------\
-=: (X)  (-)  (<>)    CHRIS WU | UMD | CLASS OF 2028           |
-=:............................................................|
-=: ChrisWu@Macbook-Pro ~ % cat intro.txt                      |
-=:                                                            |
-=: Name: Chris Wu                                             |
-=: Pronouns: He/Him                                           |
-=: Occupation:                                                |
-=:    > Studying CS & ML @ UMD; Stats & CompFin Minors        |
-=: Prev:                                                      |
-=:    > ML Student Researcher @ UMD MACHAMP Lab               |
-=:    > Software Engineering Intern (ML) @ BASF-ECMS          |
-=: Certifications:                                            |
-=:    > AWS Certified Solutions Architect Associate SAA-C03   |
-=:    > AWS Certified Developer Associate DVA-C02             |
-=: Interests:                                                 |
-=:    > Building Applied ML systems                           |
-=:    > Building scalable software systems & infrastructure   |
-=:    > Automating daily workflows                            |
-=:    > Badminton, Running, Concerts                          |
-=: Contact:                                                   | 
-=:    > Linkedin: https://www.linkedin.com/in/chriswu06       |
-=:    > Email: chriswu.cwu06@gmail.com                        |
-=:                                                            |
-=: ChrisWu@Macbook-Pro ~ % _                                  |
+/=============================================================\
+|| (X)  (-)  (<>)    CHRIS WU | UMD | CLASS OF 2028          ||
+||===========================================================||
+|| ChrisWu@Macbook-Pro ~ % cat intro.txt                     ||
+||                                                           ||
+|| Name: Chris Wu                                            ||
+|| Pronouns: He/Him                                          ||
+|| Occupation:                                               ||
+||    > Studying CS & ML @ UMD; Stats & CompFin Minors       ||
+|| Prev:                                                     ||
+||    > ML Student Researcher @ UMD MACHAMP Lab              ||
+||    > Software Engineering Intern (ML) @ BASF-ECMS         ||
+|| Certifications:                                           ||
+||    > AWS Certified Solutions Architect Associate SAA-C03  ||
+||    > AWS Certified Developer Associate DVA-C02            ||
+|| Interests:                                                ||
+||    > Building Applied ML systems                          ||
+||    > Building scalable software systems & infrastructure  ||
+||    > Automating daily workflows                           ||
+||    > Badminton, Running, Concerts                         ||
+|| Contact:                                                  || 
+||    > Linkedin: https://www.linkedin.com/in/chriswu06      ||
+||    > Email: chriswu.cwu06@gmail.com                       ||
+||                                                           ||
+|| ChrisWu@Macbook-Pro ~ % _                                 ||
 \=============================================================/
 ```
 
